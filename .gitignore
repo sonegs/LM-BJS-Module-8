@@ -6,5 +6,4 @@
 /CommonJSStyle/dist
 /CommonJSStyle/node_modules
 /CommonJSStyle/.cache
-
-/CommonJSStyle/package-lock.json
+/CommonJSStyle/package-lock.jsonls
