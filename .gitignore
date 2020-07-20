@@ -2,4 +2,9 @@
 /ParcelStyle/dist
 /ParcelStyle/.cache
 /ParcelStyle/package.json
-/CommonJSStyle/package.json
+
+/CommonJSStyle/dist
+/CommonJSStyle/node_modules
+/CommonJSStyle/.cache
+
+/CommonJSStyle/package-lock.json
